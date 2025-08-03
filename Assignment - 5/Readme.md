@@ -2,7 +2,7 @@
 
 ### Dataset
 - **Dataset Used**: SMS Spam Collection Dataset  
-- Source: https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection
+
 
 ### Preprocessing Steps
 - Loaded the dataset using pandas.
